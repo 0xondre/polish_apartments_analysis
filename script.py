@@ -21,13 +21,14 @@ def plot_price_correlations(df, title, filename):
         correlations.append(corr)
 
     corr_df = pd.DataFrame({
-        'Feature': poi_features,
-        'Correlation': correlations
+        'feature': poi_features,
+        'correlation': correlations
     })
 
     plt.figure(figsize=(10, 6))
-
-    bars = plt.barh(corr_df['Feature'], corr_df['Correlation'])
+    bars = plt.barh(corr_df['feature'], corr_df['correlation'], color=[
+        'red' if x < 0 else 'green' for x in corr_df['correlation']
+    ])
 
     for bar in bars:
         width = bar.get_width()
