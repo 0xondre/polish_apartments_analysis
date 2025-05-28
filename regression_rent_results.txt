@@ -1,0 +1,60 @@
+Metrics for szczecin:
+  RandomForest: MAE=667.67, MSE=1098551.83, MAPE=16.75%
+  Linear: MAE=672.85, MSE=1027100.37, MAPE=17.26%
+  KNeighbours: MAE=703.98, MSE=1181776.08, MAPE=17.84%
+Metrics for gdynia:
+  RandomForest: MAE=552.13, MSE=616372.88, MAPE=15.71%
+  Linear: MAE=678.23, MSE=835063.50, MAPE=20.53%
+  KNeighbours: MAE=589.43, MSE=697385.52, MAPE=16.97%
+Metrics for krakow:
+  RandomForest: MAE=504.66, MSE=474661.89, MAPE=15.35%
+  Linear: MAE=554.25, MSE=520711.94, MAPE=17.35%
+  KNeighbours: MAE=541.57, MSE=574879.84, MAPE=16.34%
+Metrics for poznan:
+  RandomForest: MAE=665.43, MSE=933376.35, MAPE=17.46%
+  Linear: MAE=608.53, MSE=849601.27, MAPE=15.88%
+  KNeighbours: MAE=713.68, MSE=1063205.47, MAPE=18.93%
+Metrics for bialystok:
+  RandomForest: MAE=1144.33, MSE=2339473.81, MAPE=30.19%
+  Linear: MAE=1069.04, MSE=1933633.54, MAPE=29.18%
+  KNeighbours: MAE=1165.27, MSE=2427233.09, MAPE=30.79%
+Metrics for gdansk:
+  RandomForest: MAE=539.05, MSE=536713.66, MAPE=16.41%
+  Linear: MAE=542.95, MSE=520668.92, MAPE=16.64%
+  KNeighbours: MAE=555.63, MSE=587242.58, MAPE=16.66%
+Metrics for wroclaw:
+  RandomForest: MAE=408.72, MSE=317854.10, MAPE=12.30%
+  Linear: MAE=508.76, MSE=466477.61, MAPE=15.29%
+  KNeighbours: MAE=370.77, MSE=295502.83, MAPE=10.94%
+Metrics for radom:
+  RandomForest: MAE=1157.36, MSE=2369382.65, MAPE=30.87%
+  Linear: MAE=1217.58, MSE=2340854.84, MAPE=33.97%
+  KNeighbours: MAE=1190.87, MSE=2423932.26, MAPE=32.00%
+Metrics for rzeszow:
+  RandomForest: MAE=777.84, MSE=1260509.25, MAPE=20.11%
+  Linear: MAE=897.34, MSE=1449042.07, MAPE=24.52%
+  KNeighbours: MAE=848.08, MSE=1497594.48, MAPE=21.90%
+Metrics for lodz:
+  RandomForest: MAE=973.54, MSE=1652394.40, MAPE=26.33%
+  Linear: MAE=987.81, MSE=1687426.18, MAPE=26.65%
+  KNeighbours: MAE=1004.79, MSE=1769476.04, MAPE=27.22%
+Metrics for katowice:
+  RandomForest: MAE=791.01, MSE=1202192.87, MAPE=21.14%
+  Linear: MAE=852.48, MSE=1298818.81, MAPE=23.82%
+  KNeighbours: MAE=804.91, MSE=1312322.78, MAPE=21.43%
+Metrics for lublin:
+  RandomForest: MAE=802.42, MSE=1508209.62, MAPE=20.07%
+  Linear: MAE=741.33, MSE=1185055.04, MAPE=19.30%
+  KNeighbours: MAE=833.20, MSE=1567871.95, MAPE=21.14%
+Metrics for czestochowa:
+  RandomForest: MAE=1207.94, MSE=2418709.20, MAPE=32.64%
+  Linear: MAE=976.43, MSE=1831182.04, MAPE=25.66%
+  KNeighbours: MAE=1255.04, MSE=2612184.43, MAPE=33.99%
+Metrics for warszawa:
+  RandomForest: MAE=1418.13, MSE=2804893.07, MAPE=46.23%
+  Linear: MAE=1469.87, MSE=2877299.14, MAPE=48.39%
+  KNeighbours: MAE=1255.78, MSE=2550986.36, MAPE=40.58%
+Metrics for bydgoszcz:
+  RandomForest: MAE=981.85, MSE=1672011.73, MAPE=26.79%
+  Linear: MAE=983.72, MSE=1679203.84, MAPE=26.82%
+  KNeighbours: MAE=1045.33, MSE=1940688.84, MAPE=28.24%
