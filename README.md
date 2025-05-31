@@ -12,10 +12,10 @@ This analysis consists of three main experiments:
    Filling missing values in the condition column using available data.
 
 # Repository structure
-In dataset/ we store raw datasets from kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland/data.
-In poi_charts/ we store charts of correlation between POI and price.
-In accuraccies.npy and accuracies_rent.npy we store MAE, MSE and MAPE for experiment 1.
-In apartments.ipynb we store code for experiment 0.
-In buy.csv and rent.csv we store merged raw data from dataset/.
-In regression.py and regression_rent.py we store code for experiment 1.
-In regression_buy_results.txt and regression_rent_results.txt we store interpreted data for experiment 1.
+In dataset/ we store raw datasets from kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland/data.  
+In poi_charts/ we store charts of correlation between POI and price.  
+In accuraccies.npy and accuracies_rent.npy we store MAE, MSE and MAPE for experiment 1.  
+In apartments.ipynb we store code for experiment 0.  
+In buy.csv and rent.csv we store merged raw data from dataset/.  
+In regression.py and regression_rent.py we store code for experiment 1.  
+In regression_buy_results.txt and regression_rent_results.txt we store interpreted data for experiment 1.  
