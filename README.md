@@ -1,6 +1,6 @@
 # Analysis of apartments prices and rent in poland
 
-This analysis consists of three main experiments:
+This analysis consists of two main experiments:
 
 0. **Correlation between points of interest and prices**  
    Investigating how proximity to various points of interest (e.g., schools, parks, transport) and count of points of interest in 500 m proximity affects apartment prices.
@@ -8,8 +8,6 @@ This analysis consists of three main experiments:
 1. **Comparing apartment markets in other cities to Wrocław**  
    Identifying which city's apartment market is most similar to Wrocław using zero-shot learning techniques.
 
-2. **Data filling for condition column**  
-   Filling missing values in the condition column using available data.
 
 # Repository structure
 In dataset/ we store raw datasets from kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland/data.  
